@@ -70,9 +70,8 @@
     display: block;
     margin-bottom: 20px;
 }
-.athing.comtr {
+.athing.comtr td tr .comment {
     margin-bottom: 20px;
-    display: block;
 }
 
 /* Fix comment size, too. */
